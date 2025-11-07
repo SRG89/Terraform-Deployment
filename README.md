@@ -1,8 +1,7 @@
 
-# All Things Terraform
+# Teraaform Deployment
 
-This repository contains all the Terraform projects that I've worked on and I'm currently working on. 
-Make sure to go through the pre-requisites for the labs.
+This repository contains all the Terraform projects.
 
 ## Pre-requisites
 
@@ -29,4 +28,5 @@ If you're using Azure:
 - [Implementing Terraform with AWS](https://www.pluralsight.com/courses/implementing-terraform-aws)
 - [Applying Graph Theory to Infrastructure as Code](https://www.youtube.com/watch?v=Ce3RNfRbdZ0)
 - [AWS DynamoDB resource not found exception](https://stackoverflow.com/questions/40192304/aws-dynamodb-resource-not-found-exception)
+
 - [Installing or updating the latest version of the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
